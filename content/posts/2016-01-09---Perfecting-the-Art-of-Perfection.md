@@ -16,6 +16,6 @@ Choose a starter
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
 
 ```sh
-gatsby develop
+gatsby develop 
 git push
 ```
